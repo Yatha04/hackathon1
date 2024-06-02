@@ -1,1 +1,1 @@
-<script>alert("Hacked By Yatharth Bajaj")</script>
+alert("Hacked By Yatharth Bajaj")
